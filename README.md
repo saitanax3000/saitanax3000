@@ -1,31 +1,64 @@
-<h1 align="center">Hi 👋, I'm Hernan</h1>
-<h3 align="center">Third year computer engineering student from Chile</h3>
+<h1 align="center">Hola 👋, soy Hernán Chamorro</h1>
+<h3 align="center">Ingeniero en Informática · Santiago, Chile 🇨🇱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saitanax3000&label=Profile%20views&color=0e75b6&style=flat" alt="saitanax3000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitanax3000" alt="saitanax3000" /></a> </p>
-
-- 🔭 I’m currently working on **ProTecnoSeg**
-
-- 🌱 I’m currently learning **Frameworks, new languages**
-
-- 👯 I’m looking to collaborate on **MusicPro**
-
-- 🤝 I’m looking for help with **:p**
-
-- 💬 Ask me about **Github, Linux**
-
-- 📫 How to reach me **he.chamorro@duocuc.cl**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://saitanax3000.github.io"><img src="https://img.shields.io/badge/Portafolio-saitanax3000.github.io-0d6efd?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio"/></a>
+  <a href="https://www.linkedin.com/in/hernan-chamorro-romero-856438224/"><img src="https://img.shields.io/badge/LinkedIn-Hernán%20Chamorro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/youngherna"><img src="https://img.shields.io/badge/GitHub-Hobbies-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub hobbies"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saitanax3000&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitanax3000&show_icons=true&locale=en&layout=compact" alt="saitanax3000" /></p>
+```bash
+hernan@github:~$ whoami
+> Ingeniero en Informática egresado de DuocUC (2025)
+> Me gusta desarrollar y automatizar procesos
+> Todo empezó instalando CyanogenMod en mi primer Android 📱
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitanax3000&show_icons=true&locale=en" alt="saitanax3000" /></p>
+- 🎓 Egresado de **Ingeniería en Informática** en DuocUC (2025)
+- ⚙️ Actualmente **automatizando procesos** con Python
+- 🌱 Siempre aprendiendo **frameworks y lenguajes nuevos**
+- 💬 Pregúntame sobre **Linux, Git, Android y automatización**
+- ⚽ Fuera del código: fútbol (mirarlo), videojuegos de aventura y teorías conspiranoicas
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saitanax3000&" alt="saitanax3000" /></p>
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🐾 [PetHub](https://github.com/saitanax3000/PetHub_Proyect) | App móvil para la adopción y cuidado de mascotas (proyecto de título) | Flutter · Firebase |
+| 🎞️ [Creador de presentaciones](https://github.com/saitanax3000/Presentacion-Maker) | Herramienta portable que crea presentaciones a partir de PDFs | Python · OpenCV |
+| 📧 [Automatización de notificaciones](https://github.com/saitanax3000/automatizacion_notificaciones) | Proceso automático que genera un informe diario desde Outlook | Python · Outlook |
+| 🚗 [DetectorCL](https://github.com/saitanax3000/DetectorCL) | Detección de patentes chilenas con cámaras básicas | Python · Visión por computador |
+| 🛍️ [ObjDetecter](https://github.com/saitanax3000/ObjDetecter) | Detección de productos por cámara para autoservicio | Python · Deep Learning |
+
+👉 Todos los proyectos en mi [portafolio](https://saitanax3000.github.io).
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,django,react,angular,flutter,androidstudio,firebase,gcp,postgres,mysql,opencv,git,linux,bash&perline=9" alt="skills" />
+</p>
+
+---
+
+### 📊 Estadísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saitanax3000&show_icons=true&locale=es&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitanax3000&layout=compact&locale=es&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saitanax3000&locale=es&hide_border=true" alt="racha" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitanax3000&no-frame=true&row=1&column=7" alt="trofeos" /></a>
+</p>
